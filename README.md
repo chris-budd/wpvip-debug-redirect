@@ -1,7 +1,4 @@
 # wpvip-debug-redirect
-Allows you to debug page redirects
+Allows you to debug redirects.
 
-# How to use it
-Simply install and activate the plugin.
-
-From now on all page redirects that were initiated by WordPress will be stopped, and debug info will be shown on the page.
+Just install and activate the plugin and then any frontend redirects will be stopped. You'll be presented with debugging info and the choice to continue to the redirect location.
